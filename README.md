@@ -4,3 +4,5 @@
 - Para ejecutar el sistema debes poner:
 
  ```npm intsall recat```
+
+ - Sistema de registro 2
